@@ -1,0 +1,12 @@
+body {
+     background-image: url();
+     background-repeat:no-repeat;
+     background-position: right top;
+    }
+h1 { color:#c51717;
+     text-align: center;
+    text-decoration: underline;}
+p {border-color: #ff33ff;}
+
+img{float: left;}
+
