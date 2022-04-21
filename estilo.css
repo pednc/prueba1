@@ -1,0 +1,93 @@
+body{
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: #092327;
+}
+menu{
+   list-style: none;
+   padding: 0%;
+   background-color: white;
+   width: 90%;
+   max-width: 1000px;
+   margin: auto;
+}
+.menu li{
+   text-decoration: none ;
+   text-align: center;
+}
+.menu li a{
+   text-decoration: none;
+   color: black;
+   padding: 20px;
+   display: block;
+}
+.menu li{
+   display: inline-block;
+   text-align: center;
+}
+.menu li a:hover{
+   background: #ef8354;
+}
+h1{
+   text-align: center;
+   text-decoration: none;
+}
+
+
+.foto1{
+   padding: 10px; 
+   margin: 10px; 
+   border: 2px solid black; 
+   float: left; 
+   width: 250px;
+}
+
+.ginebra{
+   width: 500px;
+   height: 650%;
+}
+
+.monalisa{
+   width: 500px;
+   height: 650%;
+}
+
+.pieta{
+   width: 500px;
+   height: 650%;
+}
+
+
+.madonna{
+   width: 500px;
+   height: 650%;
+}
+
+.antony{
+   width: 500px;
+   height: 650%;
+}
+
+.bounarroti{
+   width: 500px;
+   height: 650%;
+}
+
+.noche{
+   width: 500px;
+   height: 650%;
+}
+
+.algodon{
+   width: 500px;
+   height: 650%;
+}
+
+.saint{
+   width: 500px;
+   height: 650%;
+}
+
+.image1{
+   width: 700px;
+   height: 850%;
+}
